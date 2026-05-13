@@ -7,11 +7,11 @@ import Button from './components/Button';
 const App = ()=>{
   return (
     <div class="todo-container">
-      <Header/>
-      <ToDoItem/>
-      <ToDoItem/>
-      <ToDoItem/>
-      <ToDoItem/>
+      <Header title="This is a TodoApp"/>
+      <ToDoItem text="Eat"/>
+      <ToDoItem text="Code"/>
+      <ToDoItem text="Sleep"/>
+      <ToDoItem text="Repeat"/>
       <Button/>
     </div>
   )
