@@ -12,6 +12,8 @@ const App = ()=>{
       <ToDoItem text="Code"/>
       <ToDoItem text="Sleep"/>
       <ToDoItem text="Repeat"/>
+      <ToDoItem text="Gym"/>
+
       <Button/>
     </div>
   )
