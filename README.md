@@ -1,1 +1,1 @@
-This is a Todoie react app
+This is a Todoie: A react app 
